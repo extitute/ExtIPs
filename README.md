@@ -1,40 +1,41 @@
-# Ethereum Improvement Proposals (EIPs)
+# Extitute Improvement Proposals (ExtIPs)
 
-**Before you initiate a pull request**, please read the [EIP-1](https://eips.ethereum.org/EIPS/eip-1) process document. Ideas should be thoroughly discussed on [Ethereum Research](https://ethresear.ch/t/read-this-before-posting/8) or [Ethereum Magicians](https://ethereum-magicians.org/) first.
+**Before you initiate a pull request**, please read the [ExtIP-1](XxlinkxX) process document. Ideas should be thoroughly discussed through extitutional means.
 
-This repository tracks ongoing improvements to Ethereum. It contains:
+This repository tracks ongoing improvements to Extitute. It contains:
 
-- The [EIP status page](https://eips.ethereum.org), tracking protocols for Ethereum clients and applications
-- The [process document](https://eips.ethereum.org/EIPS/eip-1) that governs how protocols are published here
+- The [ExtIP status page](xxXXLinkxxLL), tracking protocols for Extitute collaborators
+- The [process document](xXxLinkxXx) that governs how protocols are published here
 
-For help *implementing* an EIP, please visit [Ethereum Stack Exchange](https://ethereum.stackexchange.com).
+For help *implementing* an ExtIP, please visit [Extitute Stack Exchange](xxXXxx).
 
-If you would like to become an EIP Editor, please check [EIP-5069](./EIPS/eip-5069.md).
+If you would like to become an ExtIP Editor, please check [ExtIP-5069](./EIPS/eip-5069.md).
 
 ## Mission
 
-The goal of the EIP project is to document standardized protocols for Ethereum clients and applications and to document them in a high quality and implementable way.
+The goal of the ExtIP project is to document standardized protocols for the Extitute rhizo-community and to document them in a high quality and implementable way.
 
 ## Preferred Citation Format
 
-The canonical URL for a EIP that has achieved draft status at any point is at https://eips.ethereum.org/. For example, the canonical URL for EIP-1 is https://eips.ethereum.org/EIPS/eip-1.
+The canonical URL for a EIP that has achieved draft status at any point is at [xxXXlinkxxXX]. For example, the canonical URL for ExtIP-1 is [xxXXLinkXXxx].
 
-Please consider anything which is not published on https://eips.ethereum.org/ as a working paper.
+Please consider anything which is not published on [xxXXLinkXXxx] as a working paper.
 
-And please consider anything published at https://eips.ethereum.org/ with a status of "draft" as an incomplete draft.
+And please consider anything published at [xxXxLinkxXxx] with a status of "draft" as an incomplete draft.
 
 ## Automerger
 
-This repository contains an "auto merge" feature to ease the workload for EIP editors. Pull requests to any EIP will be auto-merged if the EIP's authors approve the PR on GitHub. This is handled by the [EIP-Bot](https://github.com/ethereum/EIP-Bot).
+This repository contains an "auto merge" feature to ease the workload for ExtIP editors. Pull requests to any ExtIP will be auto-merged if the ExtIP's authors approve the PR on GitHub. This is handled by the [???ExtIP-Bot???](xxXXLinkXXxx).
 
 ## Validation
 
 Pull requests in this repository must pass automated validation checks:
 
-* HTML formatting and broken links are [checked](https://github.com/ethereum/EIPs/blob/master/.travis-ci.sh) using [html-proofer](https://rubygems.org/gems/html-proofer).
-* EIP front matter and formatting are [checked](https://github.com/ethereum/EIPs/blob/master/.github/workflows/auto-merge-bot.yml) using [EIP Validator](https://github.com/ethereum/eipv).
+* HTML formatting and broken links are [checked](xxXXLinkXXxx) using [html-proofer](https://rubygems.org/gems/html-proofer).
+* ExtIP front matter and formatting are [checked](xxXXLinkXXxx) using [???ExtIP Validator???](xxXXLinkXXxx).
 
-It is possible to run the EIP validator locally:
+It is possible to run the ExtIP validator locally:
+[CHECK-]
 ```sh
 cargo install eipv
 eipv <INPUT FILE / DIRECTORY>
