@@ -1,5 +1,5 @@
 ---
-extip: 1
+eip: 1
 title: ExtIP Purpose and Guidelines
 status: Draft
 type: Meta
@@ -16,7 +16,8 @@ ExtIP stands for Extitute Improvement Proposal. An ExtIP is a design document pr
 We intend ExtIPs to be the primary mechanisms for proposing new features, for collecting community technical input on an issue, and for documenting the design decisions that have gone into the Extitute. Because the ExtIPs are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.
 
 ## ExtIP Schema
-![image](assets/extip-schema.png "ExtIP Schema")
+![ExtIP Schema](../assets/eip-1/extip-schema.png)
+
 ## ExtIP Types
 
 There are three types of ExtIP:
